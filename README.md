@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrerocker
 - 👀 I’m interested in JVM, FP, Frontend, Backend, Infraestructure and OS (linux, network, virtualization and containers)
-- 🌱 I’m currently learning how to be parent (babyboy and a babygirl) (clojure stack-traces are easy ;)) 
+- 🌱 I’m currently learning how to be father (babyboy and a babygirl) (clojure stack-traces are easy ;)) 
 - 💞️ I’m looking to collaborate on Open Source projects focused on Infraestructure and Funcional Programming
 - 📫 Reach me: andre.souza@gmail.com
 

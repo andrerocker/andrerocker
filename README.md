@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andrerocker
-- 👀 I’m interested in Funcional Programming, Frontend, Backend, Infraestructure and OS
+- 👀 I’m interested in JVM, FP, Frontend, Backend, Infraestructure and OS (linux, network, virtualization and containers)
 - 🌱 I’m currently learning how to be parent (of babyboy and a babygirl) (software is easy ;)) 
 - 💞️ I’m looking to collaborate on Open Source projects focused on Infraestructure and Funcional Programming
 - 📫 Reach me: andre.souza@gmail.com
